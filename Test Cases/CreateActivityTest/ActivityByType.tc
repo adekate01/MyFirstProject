@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ActivityByType</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>08863226-b586-413b-9498-d19674326dd1</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55f8419d-78ee-465c-a57e-fcae46114898</id>
+      <masked>false</masked>
+      <name>tripName</name>
+   </variable>
+</TestCaseEntity>

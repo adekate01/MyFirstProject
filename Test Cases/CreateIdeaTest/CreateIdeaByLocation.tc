@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateIdeaByLocation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0cee977-dd2d-4116-93b2-34b15eef9a09</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08577b9f-f49f-4e8b-9279-0594bd24af72</id>
+      <masked>false</masked>
+      <name>selectLocation</name>
+   </variable>
+</TestCaseEntity>

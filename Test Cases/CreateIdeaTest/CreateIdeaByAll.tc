@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateIdeaByAll</name>
+   <tag></tag>
+   <comment>expectedIdeaName</comment>
+   <testCaseGuid>c2f777be-9bf6-43c3-884b-ea507f9ff671</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1439aa18-dcd7-43b7-b87f-e386a190bb9f</id>
+      <masked>false</masked>
+      <name>ideaName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8a6c02a6-81af-4c97-a394-3f1091740e78</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>

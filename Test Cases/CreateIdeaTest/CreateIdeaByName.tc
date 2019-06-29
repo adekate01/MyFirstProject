@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateIdeaByName</name>
+   <tag></tag>
+   <comment>expectedIdeaName</comment>
+   <testCaseGuid>cfcf9321-aeda-48b1-a28a-7d3c6135b323</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ddc07004-40e6-4dad-866d-941ddf3ffde8</id>
+      <masked>false</masked>
+      <name>ideaName</name>
+   </variable>
+</TestCaseEntity>

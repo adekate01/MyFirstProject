@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateTripByAll</name>
+   <tag></tag>
+   <comment>expectedTripName</comment>
+   <testCaseGuid>94accf77-b584-400a-9634-6491a2631341</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>83aa5153-1fef-493e-9266-8780f57bef1f</id>
+      <masked>false</masked>
+      <name>tripName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7e79505d-6ef7-4711-94a1-54afa7310ce7</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>

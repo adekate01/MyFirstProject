@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateTripByName</name>
+   <tag></tag>
+   <comment>expectedTripName</comment>
+   <testCaseGuid>e7ec0fd7-d030-4f21-810f-863a4c804920</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00761283-a2fe-4137-b76f-e6a73b758bf6</id>
+      <masked>false</masked>
+      <name>tripName</name>
+   </variable>
+</TestCaseEntity>
